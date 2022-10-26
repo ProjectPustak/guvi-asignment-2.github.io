@@ -36,35 +36,44 @@ Flow :
 
 # This is The Workflow of this Page
 
-## Step-1
-
+# Step-1
+## Register Page 
 ![guvi-1](https://user-images.githubusercontent.com/92563905/197939301-e1e6fdbe-12dd-40d9-b67d-7e2058407453.png)
 
-## Step-2
+# Step-2
+## Registration Complete
 ![guvi-2](https://user-images.githubusercontent.com/92563905/197939512-05456d66-27b3-4f1a-a8dd-18d7068bbe35.png)
 
-## Step-3
+# Step-3
+## login Page 
 ![guvi-3](https://user-images.githubusercontent.com/92563905/197939600-1b146a74-0ad6-48ba-97bc-718a0afb63e0.png)
 
 ## Step-4
+## Login Complete
 ![guvi-4](https://user-images.githubusercontent.com/92563905/197939886-450ce728-0f1b-45b7-9006-45e497e95fb1.png)
 
-## Step-5
+# Step-5
+## Registration  data stored here In MYSQL
+
 ![guvi-5](https://user-images.githubusercontent.com/92563905/197939949-606fce7b-d1e4-4d26-949d-69d7dd122c21.png)
 
-## Step-6
-
+# Step-6
+## Registration  data stored here In MongoDB
 ![guvi-6](https://user-images.githubusercontent.com/92563905/197940062-5c3cea37-cb42-4cd6-8f80-e81c99d5e87f.png)
 
-## Step-7
-
+# Step-7
+## Session token stored in local storage
 ![guvi-7](https://user-images.githubusercontent.com/92563905/197940094-9ac7389b-c832-4d24-b0f9-ab79eb5a5103.png)
 
 
-## Step-8
+# Step-8
+## Profile Page
+
 ![guvi-8](https://user-images.githubusercontent.com/92563905/197940124-d1403345-7dac-4970-a668-6ee701d38e52.png)
 
-## Step-9
+# Step-9
+
+## User Data Updated
 ![guvi-9](https://user-images.githubusercontent.com/92563905/197940246-d095cd86-9f02-407b-a049-16ed7f0c48df.png)
 
 
