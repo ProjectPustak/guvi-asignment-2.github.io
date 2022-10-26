@@ -24,6 +24,16 @@ Flow :
 - Use Redis to store the session information in the backend.
 
 
+# Tech Stack to be used:
+
+[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=round-square&logo=html5&logoColor=white)]()
+[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=round-square&logo=css3&logoColor=white)]()
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=round-square&logo=php&logoColor=white)]()
+[![REDIS](https://img.shields.io/badge/redis-%23DD0031.svg?&style=round-square&logo=redis&logoColor=white)]()
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=round-square&logo=mongodb&logoColor=white)]()
+[![MySQL](https://img.shields.io/badge/MySQL-005C84?style=round-square&logo=mysql&logoColor=white)]()
+
+
 # This is The Workflow of this Page
 
 ## Step-1
@@ -56,15 +66,5 @@ Flow :
 
 ## Step-9
 ![guvi-9](https://user-images.githubusercontent.com/92563905/197940246-d095cd86-9f02-407b-a049-16ed7f0c48df.png)
-
----
-# Tech Stack to be used:
-- HTML
-- CSS
-- JS
-- PHP
-- Redis
-- Mongo
-- Mysql
 
 
